@@ -1,4 +1,5 @@
-![Uploading AirflowLogo.svg…]()
+<img width="1812" height="700" alt="AirflowLogo" src="https://github.com/user-attachments/assets/ce81b38c-b31c-4ab3-b4ab-d531ec3d78e7" />
+
 
 # Words Frequency using Airflow 
 Apache Airflow is an open-source platform for authoring, scheduling, and monitoring workflows, mostly used for data pipelines. At the core of Airflow is the DAG (directed acyclic graph), a set of tasks with defined dependencies between them.
